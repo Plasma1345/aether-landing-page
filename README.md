@@ -1,6 +1,6 @@
 # Orange Dummy Homepage
 
-`[cloudflarebutton]`
+`[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Plasma1345/aether-landing-page)`
 
 This project is a dummy Next.js application, designed as a template for an AI-powered application builder. It serves as a landing page showcasing modern UI/UX elements, dark/light mode functionality, and integrates robust error reporting. The application is optimized for deployment on Cloudflare Workers using OpenNext.
 
@@ -103,4 +103,4 @@ This project is configured to deploy to Cloudflare Workers using OpenNext.
 
     This command will build your project and then use Wrangler to serve it locally, mimicking the Cloudflare Workers environment.
 
-`[cloudflarebutton]`
+`[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Plasma1345/aether-landing-page)`

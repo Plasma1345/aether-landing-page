@@ -1,6 +1,6 @@
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "c-code-dashboard-next-runner",
+	"name": "aether-landing-page-w3eotwiuqumyba-de4-di",
 	"main": ".open-next/worker.js",
 	"compatibility_date": "2025-03-01",
 	"compatibility_flags": [

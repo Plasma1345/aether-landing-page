@@ -88,7 +88,9 @@ module.exports = {
   		},
   		fontFamily: {
   			sans: [
+          'Sora',
   				'Inter',
+          'Sora',
   				'system-ui',
   				'sans-serif'
   			],
@@ -100,13 +102,14 @@ module.exports = {
   				'JetBrains Mono',
   				'Fira Code',
   				'monospace'
-  			],
-  			display: [
-  				'Cal Sans',
-  				'Inter',
-  				'system-ui',
-  				'sans-serif'
-  			]
+				],
+				display: [
+					'Cal Sans',
+					'Sora',
+					'Inter',
+					'system-ui',
+					'sans-serif'
+				]
   		},
   		fontSize: {
   			xs: [
